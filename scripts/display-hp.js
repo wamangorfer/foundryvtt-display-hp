@@ -73,7 +73,7 @@ Hooks.once('setup', function () {
 
     libWrapper.register(MODULE_ID, 'Token.prototype.drawBars', drawBars_Override, "OVERRIDE")
 
-    console.log(`Attribute Bar Colors v1.0 | initialized`)
+    console.log('Display-HP started!')
 
 
 })
